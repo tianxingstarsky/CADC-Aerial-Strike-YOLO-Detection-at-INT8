@@ -1,0 +1,7 @@
+path: F:\RDKX5~1
+train: train/images
+val: val/images
+nc: 2
+names:
+  - Blue_Target
+  - Red_Target
